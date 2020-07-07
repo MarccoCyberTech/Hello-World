@@ -1,2 +1,6 @@
 # Hello-World
 New Learning for the use of Git-Hub. Starting with ... The Hello_World 1st App experience ...
+
+COOL ..! Finally learning Git-Hub from a developer perspective ...
+
+07/06/2020 11:38pm MST
